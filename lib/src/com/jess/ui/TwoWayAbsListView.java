@@ -183,7 +183,7 @@ ViewTreeObserver.OnTouchModeChangeListener {
 	 * @see #setScrollDirectionPortrait(int)
 	 * @see #setScrollDirectionLandscape(int)
 	 */
-	static final int SCROLL_VERTICAL = 0;
+	public static final int SCROLL_VERTICAL = 0;
 
 	/**
 	 * Sets the View to Scroll Horizontally.
@@ -191,7 +191,7 @@ ViewTreeObserver.OnTouchModeChangeListener {
 	 * @see #setScrollDirectionPortrait(int)
 	 * @see #setScrollDirectionLandscape(int)
 	 */
-	static final int SCROLL_HORIZONTAL = 1;
+	public static final int SCROLL_HORIZONTAL = 1;
 
 
 	/**
